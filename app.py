@@ -3,6 +3,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import streamlit as st
 
+from src.data_view import show_data_table
 from src.validators import load_dataset, validate_penguins_dataset
 
 
@@ -58,6 +59,8 @@ def main() -> None:
     ax.set_ylabel("Cantidad de registros")
     ax.set_title("Cantidad de pinguinos por especie")
     st.pyplot(fig)
+
+    show_data_table(df)
 
 
 if __name__ == "__main__":
