@@ -48,9 +48,9 @@ No se utilizó rama `hotfix` y no se realizó resolución de conflictos.
 
 ### Aplicación Principal
 
-Insertar captura de la aplicación principal ejecutada con `streamlit run app.py`:
+<img width="921" height="352" alt="image" src="https://github.com/user-attachments/assets/60e6c026-735c-4841-a982-b38e4d3e830b" />
 
-![Ejecución aplicación principal](docs/app-principal.png)
+
 
 ### Visualización Tabular
 
