@@ -54,15 +54,14 @@ No se utilizó rama `hotfix` y no se realizó resolución de conflictos.
 
 ### Visualización Tabular
 
-Insertar captura de la sección de filtros, vista previa, tabla y resumen estadístico:
+<img width="921" height="389" alt="image" src="https://github.com/user-attachments/assets/d9757146-e564-4be2-bc68-9d36fad1bb08" />
 
-![Visualización tabular](docs/visualizacion-tabular.png)
 
 ### Pruebas Con Pytest
 
-Insertar captura de la ejecución exitosa de `pytest`:
+<img width="921" height="292" alt="image" src="https://github.com/user-attachments/assets/a6f92f17-2f0c-4f4b-b034-85c0cc93a211" />
 
-![Pruebas pytest](docs/pytest.png)
+
 
 ## Comandos Principales Utilizados
 
