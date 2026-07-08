@@ -99,4 +99,4 @@ git merge release/v1.0.0 --no-ff
 | Integrante | Repositorio |
 | --- | --- |
 | Oscar Maldonado | https://github.com/Oscar112248/Tarea1Gitflow |
-| Daniel Alquinga | Pendiente de colocar URL del repositorio individual |
+| Daniel Alquinga | https://github.com/superdavi/Gitflow_Tarea_1/tree/master |
