@@ -531,17 +531,6 @@ No se utilizó rama `hotfix` y no se realizó resolución de conflictos.
 
 ---
 
-## Evidencias Sugeridas
-
-Cuando se capturen las pantallas finales, guardarlas en la carpeta `docs/` con estos nombres:
-
-| Evidencia | Archivo sugerido |
-| --- | --- |
-| Aplicación principal | `docs/app-principal.png` |
-| Visualización tabular | `docs/visualizacion-tabular.png` |
-| Pruebas pytest | `docs/pytest.png` |
-
----
 
 ## Autores
 
